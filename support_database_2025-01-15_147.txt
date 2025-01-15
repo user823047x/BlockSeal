@@ -1,0 +1,1 @@
+Support database queries for synchronization (enhanced) - Implemented a new feature to enhance database queries.
