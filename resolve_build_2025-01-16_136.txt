@@ -1,0 +1,1 @@
+Resolve build pipeline for session (advanced) - Implemented a new feature to enhance build pipeline.
