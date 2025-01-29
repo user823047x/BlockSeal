@@ -1,0 +1,1 @@
+Remove error handling for security (critical) - Implemented a new feature to enhance error handling.
