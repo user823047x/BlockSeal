@@ -1,0 +1,1 @@
+Support product search for synchronization (critical) - Implemented a new feature to enhance product search.
