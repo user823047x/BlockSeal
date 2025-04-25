@@ -1,0 +1,1 @@
+Add login for synchronization (complex)
