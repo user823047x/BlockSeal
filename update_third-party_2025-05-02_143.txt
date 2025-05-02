@@ -1,0 +1,1 @@
+Update third-party authentication for UI (legacy) - Implemented a new feature to enhance third-party authentication.
