@@ -1,0 +1,1 @@
+Resolve deployment process for endpoint (high-priority) - Implemented a new feature to enhance deployment process.
