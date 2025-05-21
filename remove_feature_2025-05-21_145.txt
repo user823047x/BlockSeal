@@ -1,0 +1,1 @@
+Remove feature toggle for server (minor) - Implemented a new feature to enhance feature toggle.
