@@ -1,0 +1,1 @@
+Fix error handling for performance (major) - Implemented a new feature to enhance error handling.
