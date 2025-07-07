@@ -1,0 +1,1 @@
+Develop login for synchronization (legacy) - Implemented a new feature to enhance login.
