@@ -1,0 +1,1 @@
+Add role management for database (major) - Implemented a new feature to enhance role management.
