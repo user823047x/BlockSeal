@@ -1,0 +1,1 @@
+Update email verification for client (legacy) - Implemented a new feature to enhance email verification.
