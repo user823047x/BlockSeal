@@ -1,0 +1,1 @@
+Add product search for service (simplified)
