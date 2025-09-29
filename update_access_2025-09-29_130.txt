@@ -1,0 +1,1 @@
+Update access control for branch (major) - Implemented a new feature to enhance access control.
