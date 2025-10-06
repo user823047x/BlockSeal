@@ -1,0 +1,1 @@
+Develop email verification for synchronization (major) - Implemented a new feature to enhance email verification.
