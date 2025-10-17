@@ -1,0 +1,1 @@
+Remove UI components for query (legacy) - Implemented a new feature to enhance UI components.
