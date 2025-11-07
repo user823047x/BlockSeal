@@ -1,0 +1,1 @@
+Resolve payment gateway for authentication (easy) - Implemented a new feature to enhance payment gateway.
