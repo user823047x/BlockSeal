@@ -1,0 +1,1 @@
+Patch deployment process for synchronization (minor)
