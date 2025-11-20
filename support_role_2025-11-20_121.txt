@@ -1,0 +1,1 @@
+Support role management for query (minor)
