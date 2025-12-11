@@ -1,0 +1,1 @@
+Resolve access control for response (enhanced) - Implemented a new feature to enhance access control.
