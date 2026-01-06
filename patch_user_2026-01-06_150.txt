@@ -1,0 +1,1 @@
+Patch user authentication for security (legacy) - Implemented a new feature to enhance user authentication.
