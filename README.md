@@ -18,7 +18,3 @@ BlockSeal helps developers understand how blockchain systems work internally by 
 - 💸 Transaction validation  
 - 📦 Block creation and chaining  
 - 🧾 Blockchain integrity verification  
-
----
-
-## 🏗️ Project Structure
